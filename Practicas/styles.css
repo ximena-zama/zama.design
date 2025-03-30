@@ -1,15 +1,15 @@
 /** Esta es una hoja de estilos externa**/
 
 body {
-    background-color: #F5EAEA;
+    background-color: #F6DDD7;
 }
 
 #contenido {
-    border: 2px solid #F5EAEA; width: 500px; margin: 200px auto;
+    border: 2px solid #F6DDD7; width: 500px; margin: 150px auto;
 }
 
 #botones { 
-    border: 0px solid #F5EAEA; width: 250px; margin: 25px auto;
+    border: 0px solid #F6DDD7; width: 250px; margin: 25px auto;
 }
 
 /**
